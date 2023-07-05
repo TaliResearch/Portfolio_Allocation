@@ -8,3 +8,4 @@ Tools and models for sizing up positions in a portfolio beyond naive diversifica
 4. Strategic asset allocation
 5. Tactical asset allocation
 6. Dynamic asset allocation
+7. Volatility Optimisation Methods - incl. equal vol and fitness function vol optimisation
