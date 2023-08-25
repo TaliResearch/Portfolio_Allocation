@@ -3,7 +3,7 @@ Tools and models for sizing up positions in a portfolio beyond naive diversifica
 
 1. Naive diversification
 2. Kelly Criterion
-
+3. Dynamic Darwinian
 4. Strategic asset allocation
 5. Tactical asset allocation
 6. Dynamic asset allocation
